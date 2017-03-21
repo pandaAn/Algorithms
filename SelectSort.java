@@ -6,7 +6,6 @@ public class SelectSort {
 	public static void main(String[] args)
 	{
 		
-		
 		Integer[] a = SortHelper.generateRandomArray(10000, 1, 20000);
 		
 		sort(a);
