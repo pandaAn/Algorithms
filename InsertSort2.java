@@ -1,7 +1,7 @@
 package com.panda;
 
 import com.panda.util.*;
-public class Insertion {
+public class InsertSort2 {
 	
 	public static void main(String[] args)
 	{
